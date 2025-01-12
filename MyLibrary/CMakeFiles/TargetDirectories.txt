@@ -1,9 +1,0 @@
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/LibraryAccounting.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/install.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/LibraryAccounting_autogen_timestamp_deps.dir
-C:/Users_files/LibraryAccounting/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/CMakeFiles/LibraryAccounting_autogen.dir
